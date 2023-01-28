@@ -44,24 +44,24 @@
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>
           <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
-              <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="">Beranda</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#departments">Kesehatan Masyarakat</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#findUs">Gizi</a></li>
-            </ul><a class="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4" href="#!">Daftar</a>
+              <b><li class="nav-item px-2"><a class="nav-link" aria-current="page" href="">Beranda</a></li></b>
+              <b><li class="nav-item px-2"><a class="nav-link" href="#departments">Kesehatan Masyarakat</a></li></b>
+              <b><li class="nav-item px-2"><a class="nav-link" href="#findUs">Gizi</a></li></b>
+            </ul><b><a class="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4" href="#!">Daftar</a></b>
           </div>
         </div>
       </nav>
       <section class="py-xxl-10 pb-0" id="home">
-        <div class="bg-holder bg-size" style="background-image:url(../assets/live-doc-v1.0.0/public/assets//img/gallery/hero-bg.png);background-position:top center;background-size:cover;">
+        <div class="bg-holder bg-size" style="background-image:url(../assets/live-doc-v1.0.0/public/assets//img/gallery/hero-bg2.png);background-position:top center;background-size:cover;">
         </div>
         <!--/.bg-holder-->
 
         <div class="container">
           <div class="row min-vh-xl-100 min-vh-xxl-25">
-            <div class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end"><img class="pt-7 pt-md-0 w-100" src="../assets/live-doc-v1.0.0/public/assets//img/gallery/hero.png" alt="hero-header" /></div>
+            <div class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end"><img class="pt-7 pt-md-0 w-100" src="../assets/live-doc-v1.0.0/public/assets//img/gallery/faskes.png" alt="hero-header" /></div>
             <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-6">
-              <h1 class="fw-light font-base fs-6 fs-xxl-7">We're <strong>determined </strong>for<br />your&nbsp;<strong>better life.</strong></h1>
-              <p class="fs-1 mb-5">You can get the care you need 24/7 – be it online or in <br />person. You will be treated by caring specialist doctors. </p><a class="btn btn-lg btn-primary rounded-pill" href="#!" role="button">Make an Appointment</a>
+              <h1 class="fw-light font-base fs-6 fs-xxl-7"><strong>FAKULTAS ILMU KESEHATAN</strong></h1>
+              <p class="fs-1 mb-5">UNIVERSITAS IBN KHALDUN BOGOR</p>
             </div>
           </div>
         </div>
